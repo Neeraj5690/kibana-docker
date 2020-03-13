@@ -1,6 +1,6 @@
 FROM node:10.15.2-alpine
 
-LABEL maintainer "nshou <nshou@coronocoya.net>"
+LABEL maintainer "Rahul Kathpal <kathpalrk@gmail.com>"
 
 ARG ek_version=7.5.1
 
